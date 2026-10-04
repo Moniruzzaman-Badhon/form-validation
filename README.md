@@ -2,11 +2,11 @@
 
 A clean and responsive **Form Validation** project built with HTML, CSS, and JavaScript. This project demonstrates how to validate user input, display helpful error messages, and provide a better form-filling experience using client-side JavaScript.
 
-## 🚀 Live Demo
+##  Live Demo
 
 [View Live Demo](https://moniruzzaman-badhon.github.io/form-validation/)
 
-## 📌 Features
+##  Features
 
 * ✅ Full Name validation
 * ✅ Email validation
@@ -19,13 +19,13 @@ A clean and responsive **Form Validation** project built with HTML, CSS, and Jav
 * ✅ Client-side form validation
 * ✅ Prevents form submission when inputs are invalid
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **HTML5** — Form structure and semantic elements
 * **CSS3** — Styling, layout, and responsive design
 * **JavaScript** — Form validation and interactive functionality
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 form-validation/
@@ -36,7 +36,7 @@ form-validation/
 └── README.md
 ```
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -50,7 +50,7 @@ git clone https://github.com/Moniruzzaman-Badhon/form-validation.git
 
 No additional installation or dependencies are required.
 
-## 🎯 What I Learned
+##  What I Learned
 
 Through this project, I practiced:
 
@@ -64,7 +64,7 @@ Through this project, I practiced:
 * Responsive web design
 * Connecting HTML, CSS, and JavaScript
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add password strength indicator
 * Add more advanced validation rules
@@ -73,7 +73,7 @@ Through this project, I practiced:
 * Add animated validation feedback
 * Improve accessibility
 
-## 👨‍💻 Author
+##  Author
 
 **Moniruzzaman Badhon**
 
